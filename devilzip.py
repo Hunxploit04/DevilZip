@@ -1,7 +1,6 @@
 import zipfile
 import time
 from sys import stderr
-import os
 
 #\033[34;1m
 #\033[32;1m
