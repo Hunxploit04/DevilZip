@@ -3,7 +3,7 @@ tools yang di kembangkan untuk cracking file zip dengan mengandalkan wordlist
 
 <img src="https://github.com/Hunxploit04/DevilZip/blob/main/devil.png">
 
-### Cara install Linux (deb) dan Termux 
+### Cara install di Linux (deb) dan Termux 
 
 Sebelum itu install paket - paket nya
 Linux(deb)
